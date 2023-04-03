@@ -1,0 +1,30 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 4Opx ;
+    color: #fff;
+}
+
+h2 {
+ text-transform: uppercase;   
+}
+
+body {
+  font: "Raleway", sans-serif;  
+  color: rgb(0, 0, 0.5);
+  text-align: center;
+   text-transform: uppercase;
+   letter-spacing:0.5rem;
+   top: 50% ;
+   background: linear-gradient(to right,yellow,red);
+}
+
+
+.random-button {
+  background-color: orangered;
+  border: none;
+  border-radius: none;
+  color: rgb(0, 0, 0.5);
+  padding: 15px 12px;
+  font-size: 13px;
+  font-family: "Raleway", sans-serif ;  
+}
